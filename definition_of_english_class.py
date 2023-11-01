@@ -53,6 +53,6 @@ class Dictionary:
 
 
 if __name__ == '__main__':
-    dictionary = Dictionary('C:/Users/poori/OneDrive/Desktop/definitions.txt')
+    dictionary = Dictionary('definitions.txt')
     # file.dictionary()
     dictionary.look_for_word()
