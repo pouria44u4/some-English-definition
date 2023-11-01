@@ -25,7 +25,7 @@ tuna : a large fish that lives in the ocean and that you can eat:
 change : money that you get back when you pay too much:
 sparkling : a sparking drink has a lot of bubbles in it:
 still : without gas bubbles:
-price : the money you habe to pay to buy smt:
+price : the money you have to pay to buy smt:
 french fries : long thin pieces of potato that you cook in hot oil:
 request : the act of asking for smt in a polite or formal way:
 offer : to say or show that you are willinh to do smt for someone or give smt to someone:
