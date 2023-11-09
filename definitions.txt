@@ -25,7 +25,7 @@ tuna : a large fish that lives in the ocean and that you can eat:
 change : money that you get back when you pay too much:
 sparkling : a sparking drink has a lot of bubbles in it:
 still : without gas bubbles:
-price : the money you have to pay to buy smt:
+price : the money you habe to pay to buy smt:
 french fries : long thin pieces of potato that you cook in hot oil:
 request : the act of asking for smt in a polite or formal way:
 offer : to say or show that you are willinh to do smt for someone or give smt to someone:
@@ -104,7 +104,7 @@ ingredient : one of the things that you use to make a special food or dish:
 pork : meat from pigs:
 mustard : a thick yellow or brown sauce with a strong taste, that you eat with meat:
 invite : to ask someone to come to a party.to your house, etc or to do smt:
-arangment : smt that you plan or agree to do in the future:
+arrangment : smt that you plan or agree to do in the future:
 babysit : to take care of a child when the parents are not home for  a short time:
 never mind : words that you use to tell someone not to worry;it doesn't matter:
 invitation : an offer from someone to do smt or go somewhere:
@@ -118,3 +118,18 @@ infinitive : the simple form of a verb that is used with the word "to":
 length : the amount of time smt takes:
 decide : to choose to do smt; to make a choice between diffrent things:
 chart : drawings and writings that show information about smt:
+forget it : used to tell someone not to worry about smt as it is not important:
+bring : to take someone or smt with you to where you are going:
+judge : a person who decides who the winner of a competition is:
+decision : a choic ethat you make about smtt after thinking carefully about it:
+get lost : used for rudly telling someone to go away:
+extract : a short part of a book, music, etc. that shows what the rest is like:
+comfortable : nice to wear to sit in or to be in:
+passanger : someone who is traveling in a car train airplane etc but not driving or flying it:
+expert : a person who has a lot of information or skills about smt:
+coast : the part of the land that is next to the ocean or sea:
+poverty : when you have little money:
+luckily : by good chance:
+notice : to see smell or feel someone or smt to pay attention to someone or smt:
+arrange : to make plans to do smt in the future:
+detail : a piece of information about smt:
